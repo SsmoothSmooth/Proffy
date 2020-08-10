@@ -1,0 +1,25 @@
+Comandos utilizados:
+
+Comando para instalação: 
+
+npm init -y ==> Começar um projeto na raiz.
+
+npm install express ==> instala um biblioteca que será colocada no projeto "Crou a pasta node_modules"
+
+npm install nodemon -D ==>  Ferramneta para quando salvar o arquivo reinicia o servidor
+
+npm install nunjucks ==> Template Engine
+
+npm install sqlite-async ==> instalando o Banco de dados
+
+============================================================================
+Comandos de atalhos:
+npm run dev ==> Iniciar o servidor + e manter atualizado
+
+============================================================================
+extenções instaladas:
+  ->Launchbase Thema ==> Muda a cor tema do terminal
+
+  ->Live Server ==> Cria localhost par visualizar o projeto
+
+  ->SQLite ==> Deixa visualizar as tabelas e o campo do SQLite
